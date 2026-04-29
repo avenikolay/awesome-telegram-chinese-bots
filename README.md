@@ -64,6 +64,10 @@
   另一个油管视频下载机器人，为下载做了不同形式的封装。  
   👉 <https://t.me/utubest_Bot>
 
+- **Cyber Collector** — `@cybercollectorbot`  
+  多平台免费视频下载机器人，支持 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook。无需注册，无广告。  
+  👉 <https://t.me/cybercollectorbot>
+
 ### 2.3 影视信息 & 音乐下载
 
 - **IMDb 电影信息查询** — `@imdb`  
